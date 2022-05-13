@@ -1,0 +1,25 @@
+html {
+  background-image: url("background/squares.jpg")
+}
+
+h1 {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 72px;
+  color: grey;
+}
+h2 {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 32px;
+  color: grey
+}
+p { font-family: "times new roman";
+   font-size: 20px;
+   color: firebrick;
+  }
+a { font-size: 20px;
+  }
+header h1 {background-color: }
+
+.wrapper a:hover {
+  background: red;
+}
