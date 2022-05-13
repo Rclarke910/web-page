@@ -1,25 +1,29 @@
+/* changing the background image to one i found online */
 html {
   background-image: url("background/squares.jpg")
 }
-
+/* changing bold title text colors to grey */
 h1 {
   font-family: 'Shadows Into Light', cursive;
   font-size: 72px;
   color: grey;
 }
+
 h2 {
   font-family: 'Shadows Into Light', cursive;
   font-size: 32px;
   color: grey
 }
+/* changing the structure text colors to firebrick red */
 p { font-family: "times new roman";
    font-size: 20px;
    color: firebrick;
   }
+/* changing my links font size */
 a { font-size: 20px;
   }
 header h1 {background-color: }
-
+/* modifying the links to glow red when hovered over */
 .wrapper a:hover {
   background: red;
 }
